@@ -1,2 +1,2 @@
 # Agarbatti-store
-A website for best selling Agarbattis Online.
+Best selling Mosquito Repellant Agarbatti's Online.
